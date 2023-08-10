@@ -21,9 +21,9 @@ Before start the web app verify that Nodejs and Npm are installed.
 For start excute this command:
 npm run start
 
-Open your browser and write this url:
-http://localhost:8080
+Open your browser and write this url: http://localhost:8080
 and then enjoy the app selecting and url with some news to analyze.
-My Sample url used for test/deveop : 
+
+My Sample url used for test/develop: 
 https://www.bbc.com/news/world-europe-66435160
 
